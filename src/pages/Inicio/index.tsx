@@ -1,4 +1,3 @@
-import React from 'react'; 
 import cardapio from 'data/cardapio.json';
 import styles from './Inicio.module.scss';
 
